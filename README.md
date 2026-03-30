@@ -142,7 +142,7 @@ Open source and available for personal and commercial use.
 
 ## 👨‍💻 Author
 
-**Nguyễn Trọng Hùng**
+**Nguyễn Trọng Hưng**
 - GitHub: [@nguyentronghung1204](https://github.com/nguyentronghung1204)
 
 ## 🤝 Contributing
@@ -151,4 +151,4 @@ Feel free to fork and submit pull requests for improvements!
 
 ---
 
-**Made with ❤️ by Nguyễn Trọng Hùng**
+**Made with ❤️ by Nguyễn Trọng Hưng**
